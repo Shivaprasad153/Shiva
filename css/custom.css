@@ -1,0 +1,69 @@
+.img{
+	height: 40px;
+}
+.demo{
+	margin-top: 70px;
+}
+
+.about-page{
+	padding-top: 5rem;
+	text-align: right;
+}
+.demo1{
+background-color:  #6B6FFF;
+height: 60px;
+width: 200px;
+font-size: 20px;
+color: white;
+}
+.services {
+    height: auto;
+    width: 100%;
+   
+    margin: 10px 0px 6px 0px;
+    text-align: center;
+}
+.demo5{
+	margin-top: 70px;
+}
+.demo2{
+background-color:  #6B6FFF;
+height: 60px;
+width: 200px;
+font-size: 20px;
+color: white;
+}
+.about{
+	padding-left: 20px;
+
+}
+.demo6{
+	text-align: center;
+	padding-top: 15px;
+}
+form{
+	border:thin solid #12abcd;
+border-radius:5%;
+    padding: 30px;
+	width:150px;
+	background-color:#0a83ea9e;
+	padding-right: 300px;
+
+}
+.demo13{
+	background-color:#6B6FFF; 
+	padding-top: 30px;
+}
+.demo9{
+	color: white;
+
+}
+.demo1{
+	    margin-top: 15px;
+	        margin-left: 11px;
+}
+.demo14{
+	margin-top: -17px;
+	color: white;
+
+}
